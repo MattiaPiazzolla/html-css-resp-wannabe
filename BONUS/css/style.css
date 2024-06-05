@@ -154,8 +154,10 @@ img {
     } 
     .col {
         width: 100%;
-
+    }
     /* LESSONS SECTION */  
+    .lessons .col img {
+        margin-top: 3rem;
     }
     .lessons .col {
         width: 100%;

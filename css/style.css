@@ -160,6 +160,9 @@ img {
     .lessons .col {
         width: 100%;
     }
+    .lessons .col img {
+        margin-top: 3rem;
+    }
         /* STEPS SECTION */
     .steps {
         margin-bottom: 0;
